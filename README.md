@@ -12,4 +12,6 @@ Sınıflar
     - odunc_al() metodu ile kitap ödünç alınır.
     - iade_et() metodu ile kitap iade edilir.
     - odunc_bilgisi() metodu ile şu anda ödünçte olan kitapları listeler.
-   <img width="1027" alt="Снимок экрана 2024-04-16 в 17 03 45" src="https://github.com/Munavvarbegim/Proje3/assets/168825452/ab6484ed-8c56-47b5-9037-51a8bd61e31c">
+
+<img width="1470" alt="Снимок экрана 2024-05-13 в 00 08 19" src="https://github.com/Munavvarbegim/Proje3/assets/168825452/7db5d70d-dc1d-4254-aa81-69933fbfacc2">
+
